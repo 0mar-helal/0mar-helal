@@ -1,8 +1,6 @@
-<br clear="both">
 
-<h1 align="left">Hi,I'm Omar 👋</h1>
+<h1 align="center">Hi,I'm Omar 👋</h1>
 
-###
 
 <h2 align="left">About Me:</h2>
 
