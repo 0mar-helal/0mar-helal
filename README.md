@@ -2,17 +2,13 @@
 <h1 align="center">Hi,I'm Omar 👋</h1>
 
 
-<h2 align="left">About Me:</h2>
-
-###
+## 😎About Me:
 
 <p align="left">Who am I ?<br>I'm Omar Helal from Syria, Latakia  and I'm a highly skilled frontend web developer with over +1 years of experience in the industry. <br><br>What is my area of expertise ?<br>My primary focus is on ReactJS  development, and I have a proven track record of delivering high-quality websites and web applications that are both functional and aesthetically pleasing.<br><br>What is my approach to work?<br>Collaboration and teamwork are essential to me, and I believe in fostering strong relationships with my clients to deliver the best possible results.<br> <br>How can I help you ?<br>If you're looking for a dedicated and reliable frontend web developer, let's connect and discuss how we can work together to bring your project to life</p>
 
 ###
 
-<h2 align="left">Language & Tools:</h2>
-
-###
+## ✨ Language & Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
