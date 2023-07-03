@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me:
 
-<strong>I'm Omar Helal from Syria, Latakia  and I'm a highly skilled frontend web developer with over +2 years of experience in the industry.<br><br>
+<strong>I'm Omar Helal a highly skilled frontend web developer with over +2 years of experience in the industry.<br><br>
 My primary focus is on ReactJS development, and I have a proven track record of delivering high-quality websites and web applications that are both functional and aesthetically pleasing.<br><br>
 Collaboration and teamwork are essential to me, and I believe in fostering strong relationships with my clients to deliver the best possible results.<br><br>
 If you're looking for a dedicated and reliable frontend web developer, let's connect and discuss how we can work together to bring your project to life</strong>
