@@ -58,17 +58,27 @@ I'm continuously improving my frontend engineering skills and exploring better w
 ## 🚀 GitHub Stats
 
 <div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=0mar-helal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
-    height="160"
-    alt="Omar Helal GitHub stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0mar-helal&theme=github_dark"
+    width="100%"
+    alt="Omar Helal GitHub Profile Details"
+  />
+
+  <br />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0mar-helal&theme=github_dark"
+    height="165"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0mar-helal&layout=compact&langs_count=6&theme=dracula&hide_border=true"
-    height="160"
-    alt="Omar Helal most used languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0mar-helal&theme=github_dark"
+    height="165"
+    alt="Top Languages"
   />
+
 </div>
 
 ---
