@@ -67,17 +67,18 @@ I'm continuously improving my frontend engineering skills and exploring better w
 
   <br />
 
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0mar-helal&theme=github_dark"
-    height="165"
+    width="48%"
     alt="GitHub Stats"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0mar-helal&theme=github_dark"
-    height="165"
+    width="48%"
     alt="Top Languages"
   />
+</p>
 
 </div>
 
